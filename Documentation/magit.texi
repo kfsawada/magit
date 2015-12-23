@@ -7,7 +7,6 @@
 @c %**end of header
 
 @copying
-@TEXINFO
 @@ifnottex
 Magit is an interface to the version control system Git, implemented
 as an Emacs package.  Magit aspires to be a complete Git porcelain.
@@ -31,7 +30,6 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 General Public License for more details.
 @@end quotation
-@end TEXINFO
 @end copying
 
 @dircategory Emacs
